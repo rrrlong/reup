@@ -1,0 +1,12 @@
+{
+  "@@locale": "en",
+  "@segmentCommon": {
+    "---------": "---------",
+    "description": "Common strings"
+  },
+  "test": "test",
+  "@test": {
+    "---------": "---------",
+    "description": "description"
+  }
+}

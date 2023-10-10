@@ -1,0 +1,12 @@
+{
+  "@@locale": "ru",
+  "@segmentCommon": {
+    "---------": "---------",
+    "description": "Общие строки"
+  },
+  "test": "тест",
+  "@test": {
+    "---------": "---------",
+    "description": "description"
+  }
+}

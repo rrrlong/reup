@@ -1,0 +1,10 @@
+import 'package:auto_route/auto_route.dart';
+import 'package:reup/features/navigation/domain/entity/app_route_paths.dart';
+import 'package:reup/features/navigation/servise/router.dart';
+
+/// All routes for the main feature.
+final mainRoutes = AutoRoute(
+  page: MainRouter.page,
+  initial: true,
+  path: AppRoutePaths.mainPath,
+);
