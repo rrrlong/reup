@@ -51,7 +51,7 @@ class CartScreen extends StatelessWidget {
               padding: const EdgeInsets.only(left: 16),
               child: IconButton(
                 onPressed: null,
-                icon: SvgPicture.asset('assets/icons/reup_icon_more.svg'),
+                icon: SvgPicture.asset('assets/icons/more_icon.svg'),
                 iconSize: 64,
                 style: const ButtonStyle(
                   tapTargetSize: MaterialTapTargetSize.shrinkWrap,
@@ -86,7 +86,7 @@ class CartScreen extends StatelessWidget {
               padding: const EdgeInsets.only(left: 16),
               child: IconButton(
                 onPressed: null,
-                icon: SvgPicture.asset('assets/icons/reup_icon_more.svg'),
+                icon: SvgPicture.asset('assets/icons/more_icon.svg'),
                 iconSize: 64,
                 style: const ButtonStyle(
                   tapTargetSize: MaterialTapTargetSize.shrinkWrap,

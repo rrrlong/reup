@@ -44,42 +44,42 @@ class FavoritesScreen extends StatelessWidget {
 
 final List<ProductData> items = [
   ProductData(
-    const ImageWidget(Images.reupProduct),
+    const ImageWidget(Images.mockProduct),
     // Image.asset('assets/images/reup_product.jpg'),
     'befree',
     'Блузка женская Лейди',
     '7500₽',
   ),
   ProductData(
-    const ImageWidget(Images.reupProduct),
+    const ImageWidget(Images.mockProduct),
     // Image.asset('assets/images/reup_product.jpg'),
     'befree',
     'Блузка женская Лейди',
     '7500₽',
   ),
   ProductData(
-    const ImageWidget(Images.reupProduct),
+    const ImageWidget(Images.mockProduct),
     // Image.asset('assets/images/reup_product.jpg'),
     'befree',
     'Блузка женская Лейди',
     '7500₽',
   ),
   ProductData(
-    const ImageWidget(Images.reupProduct),
+    const ImageWidget(Images.mockProduct),
     // Image.asset('assets/images/reup_product.jpg'),
     'befree',
     'Блузка женская Лейди',
     '7500₽',
   ),
   ProductData(
-    const ImageWidget(Images.reupProduct),
+    const ImageWidget(Images.mockProduct),
     // Image.asset('assets/images/reup_product.jpg'),
     'befree',
     'Блузка женская Лейди',
     '7500₽',
   ),
   ProductData(
-    const ImageWidget(Images.reupProduct),
+    const ImageWidget(Images.mockProduct),
     // Image.asset('assets/images/reup_product.jpg'),
     'befree',
     'Блузка женская Лейди',

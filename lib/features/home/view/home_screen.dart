@@ -28,8 +28,7 @@ class HomeScreen extends StatelessWidget {
           /// for hide empty labels
           selectedFontSize: 0.0,
           currentIndex: tabsRouter.activeIndex,
-          // onTap: tabsRouter.setActiveIndex,
-          onTap: (index) => {},
+          onTap: tabsRouter.setActiveIndex,
           items: _bottomNavigationBarItems,
         );
       },

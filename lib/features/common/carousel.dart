@@ -69,7 +69,7 @@ class _CarouselState extends State<Carousel> {
                   },
                   child: Product(
                       data: ProductData(
-                          const ImageWidget(Images.reupProduct),
+                          const ImageWidget(Images.mockProduct),
                           // old
                           // Image.asset('assets/images/reup_product.jpg'),
                           'befree',

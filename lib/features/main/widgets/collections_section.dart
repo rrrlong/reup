@@ -15,7 +15,7 @@ class CollectionsSection extends StatelessWidget {
           Collection(
             data: CollectionData(
               'Название коллекции', 'бренд',
-              const ImageWidget(Images.reupCollection),
+              const ImageWidget(Images.mainCollection),
               // old
               // Image.asset('assets/images/reup_collection.jpg'),
             ),
@@ -23,7 +23,7 @@ class CollectionsSection extends StatelessWidget {
           Collection(
             data: CollectionData(
               'Название коллекции', 'бренд',
-              const ImageWidget(Images.reupCollection),
+              const ImageWidget(Images.mainCollection),
               // old
               // Image.asset('assets/images/reup_collection.jpg'),
             ),
@@ -36,7 +36,7 @@ class CollectionsSection extends StatelessWidget {
           Collection(
             data: CollectionData(
               'Название коллекции', 'бренд',
-              const ImageWidget(Images.reupCollection),
+              const ImageWidget(Images.mainCollection),
               // old
               // Image.asset('assets/images/reup_collection.jpg'),
             ),
@@ -44,7 +44,7 @@ class CollectionsSection extends StatelessWidget {
           Collection(
             data: CollectionData(
               'Название коллекции', 'бренд',
-              const ImageWidget(Images.reupCollection),
+              const ImageWidget(Images.mainCollection),
               // old
               // Image.asset('assets/images/reup_collection.jpg'),
             ),

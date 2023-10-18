@@ -20,7 +20,7 @@ class Footer extends StatelessWidget {
                 style: IconButton.styleFrom(
                     tapTargetSize: MaterialTapTargetSize.shrinkWrap),
                 onPressed: null,
-                icon: const ImageWidget(Images.reupIconInst),
+                icon: const ImageWidget(SvgIcons.instIcon),
                 // old
                 // icon: Image.asset('assets/icons/reup_icon_inst.jpg'),
               ),
@@ -31,7 +31,7 @@ class Footer extends StatelessWidget {
                 style: IconButton.styleFrom(
                     tapTargetSize: MaterialTapTargetSize.shrinkWrap),
                 onPressed: null,
-                icon: const ImageWidget(Images.reupIconTg),
+                icon: const ImageWidget(SvgIcons.tgIcon),
                 // old
                 // icon: Image.asset('assets/icons/reup_icon_tg.jpg'),
               )

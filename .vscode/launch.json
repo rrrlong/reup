@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "name": "reup debug",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "reup (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    }
+  ]
+}

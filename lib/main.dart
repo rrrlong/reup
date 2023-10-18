@@ -8,7 +8,7 @@ import 'package:reup/runner.dart';
 
 void main() {
   Environment.init(
-    buildType: BuildType.dev,
+    buildType: BuildType.debug,
     config: AppConfig(
       url: Url.testUrl,
     ),

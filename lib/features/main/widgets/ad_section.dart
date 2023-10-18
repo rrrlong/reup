@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
 import 'dart:developer';
-import 'package:flutter_svg/flutter_svg.dart';
+
+import 'package:flutter/material.dart';
 import 'package:reup/assets/res/resources.dart';
 import 'package:reup/features/common/widgets/image_widget.dart';
 
@@ -23,7 +23,7 @@ class AdSection extends StatelessWidget {
                 child: SizedBox(
                   height: 150,
                   child: ImageWidget(
-                    Images.reupAd1,
+                    Images.mainAd1,
                     fit: BoxFit.fill,
                   ),
                   // old
@@ -38,7 +38,7 @@ class AdSection extends StatelessWidget {
                 child: SizedBox(
                   height: 150,
                   child: ImageWidget(
-                    SvgIcons.reupAd11,
+                    Images.mainAd2,
                     fit: BoxFit.fill,
                   ),
                   // old
@@ -63,7 +63,7 @@ class AdSection extends StatelessWidget {
                 child: SizedBox(
                   height: 100,
                   child: ImageWidget(
-                    SvgIcons.reupAd2,
+                    Images.mainAd3,
                     fit: BoxFit.fill,
                   ),
                   // old
@@ -78,7 +78,7 @@ class AdSection extends StatelessWidget {
                 child: SizedBox(
                   height: 100,
                   child: ImageWidget(
-                    Images.reupAd21,
+                    Images.mainAd4,
                     fit: BoxFit.fill,
                   ),
                   // old
@@ -100,7 +100,7 @@ class AdSection extends StatelessWidget {
             child: const Column(
               children: [
                 ImageWidget(
-                  Images.reupAd3,
+                  Images.mainAd5,
                   fit: BoxFit.fill,
                 ),
                 // old
@@ -110,7 +110,7 @@ class AdSection extends StatelessWidget {
                 // ),
 
                 ImageWidget(
-                  SvgIcons.reupAd31,
+                  Images.mainAd6,
                   fit: BoxFit.fill,
                 ),
                 // old
