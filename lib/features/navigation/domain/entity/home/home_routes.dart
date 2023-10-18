@@ -10,7 +10,7 @@ import 'package:reup/features/navigation/servise/router.dart';
 /// All routes for the home feature.
 final homeRoutes = AutoRoute(
   page: HomeRouter.page,
-  path: AppRoutePaths.homeScreen,
+  path: AppRoutePaths.homePath,
   initial: true,
   children: [
     mainRoutes,

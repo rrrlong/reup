@@ -91,7 +91,7 @@ class _ReupChoiseState extends State<ReupChoise> {
                   data: ReupChoiseData(
                     'BEFREE',
                     'Наше дело не так однозначно, как может показаться: существующая теория напрямую зависит от стандартных подходов. Идейные соображения высшего порядка, а также разбавленное изрядной долей',
-                    ImageWidget(Images.reupImg3),
+                    ImageWidget(Images.mainReupChoice),
                     // old
                     // Image.asset('assets/images/reup_img3.jpg'),
                   ),
@@ -102,7 +102,7 @@ class _ReupChoiseState extends State<ReupChoise> {
                   data: ReupChoiseData(
                     'BEFREE',
                     'Наше дело не так однозначно, как может показаться: существующая теория напрямую зависит от стандартных подходов. Идейные соображения высшего порядка, а также разбавленное изрядной долей',
-                    ImageWidget(Images.reupImg3),
+                    ImageWidget(Images.mainReupChoice),
                     // old
                     // Image.asset('assets/images/reup_img3.jpg'),
                   ),
@@ -113,7 +113,7 @@ class _ReupChoiseState extends State<ReupChoise> {
                   data: ReupChoiseData(
                     'BEFREE',
                     'Наше дело не так однозначно, как может показаться: существующая теория напрямую зависит от стандартных подходов. Идейные соображения высшего порядка, а также разбавленное изрядной долей',
-                    ImageWidget(Images.reupImg3),
+                    ImageWidget(Images.mainReupChoice),
                     // old
                     // Image.asset('assets/images/reup_img3.jpg'),
                   ),
@@ -124,7 +124,7 @@ class _ReupChoiseState extends State<ReupChoise> {
                   data: ReupChoiseData(
                     'BEFREE',
                     'Наше дело не так однозначно, как может показаться: существующая теория напрямую зависит от стандартных подходов. Идейные соображения высшего порядка, а также разбавленное изрядной долей',
-                    ImageWidget(Images.reupImg3),
+                    ImageWidget(Images.mainReupChoice),
                     // old
                     // Image.asset('assets/images/reup_img3.jpg'),
                   ),
@@ -135,7 +135,7 @@ class _ReupChoiseState extends State<ReupChoise> {
                   data: ReupChoiseData(
                     'BEFREE',
                     'Наше дело не так однозначно, как может показаться: существующая теория напрямую зависит от стандартных подходов. Идейные соображения высшего порядка, а также разбавленное изрядной долей',
-                    ImageWidget(Images.reupImg3),
+                    ImageWidget(Images.mainReupChoice),
                     // old
                     // Image.asset('assets/images/reup_img3.jpg'),
                   ),
@@ -146,7 +146,7 @@ class _ReupChoiseState extends State<ReupChoise> {
                   data: ReupChoiseData(
                     'BEFREE',
                     'Наше дело не так однозначно, как может показаться: существующая теория напрямую зависит от стандартных подходов. Идейные соображения высшего порядка, а также разбавленное изрядной долей',
-                    ImageWidget(Images.reupImg3),
+                    ImageWidget(Images.mainReupChoice),
                     // old
                     // Image.asset('assets/images/reup_img3.jpg'),
                   ),
@@ -270,7 +270,7 @@ class _reupChoiseState extends State<ReupChoisePage> {
                     padding: const EdgeInsets.only(left: 16),
                     child: IconButton(
                       onPressed: null,
-                      icon: SvgPicture.asset('assets/icons/reup_icon_more.svg'),
+                      icon: SvgPicture.asset('assets/icons/more_icon.svg'),
                       iconSize: 64,
                       style: const ButtonStyle(
                         tapTargetSize: MaterialTapTargetSize.shrinkWrap,

@@ -7,10 +7,10 @@
 /// ```
 abstract class AppRoutePaths {
   /// Path to splash screen.
-  static const String splashPath = '/splash';
+  static const String splashPath = 'splash';
 
   /// Path to home screen.
-  static const String homeScreen = '/';
+  static const String homePath = '/';
 
   /// Path to main screen.
   static const String mainPath = 'main';

@@ -52,21 +52,6 @@ A pattern for a Pull request: `<type>(JIRA-<task_number>): <description>`, for e
 - `fix(ASD-2): incorrect text for SocketException`
 - `docs(ZXC-2): readme update`
 
-### Initialization
-
-Do the following to initialize a project:
-
-1. Search for flutter_template and replace it with the name of your project where needed.
-2. Initialize FirebaseCrashlytics (you can find that in TODO(init-project)).
-3. Run this command to get up-to-date versions of dependencies:
-   ```sh
-   flutter pub get --enforce-lockfile
-   ```
-   or
-   ```sh
-   fvm flutter pub get --enforce-lockfile
-   ```
-
 ### FVM
 
 If you have multiple versions of Flutter installed, you can use [FVM](https://fvm.app/).<br>

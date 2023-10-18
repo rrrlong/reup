@@ -78,7 +78,7 @@ class MainScreen extends StatelessWidget {
                     onPressed: null,
                     icon: ImageWidget(SvgIcons.moreIcon),
                     // old
-                    // icon: SvgPicture.asset('assets/icons/reup_icon_more.svg'),
+                    // icon: SvgPicture.asset('assets/icons/more_icon.svg'),
                     iconSize: 64,
                     style: ButtonStyle(
                       tapTargetSize: MaterialTapTargetSize.shrinkWrap,
@@ -154,7 +154,7 @@ class MainScreen extends StatelessWidget {
                             icon: ImageWidget(SvgIcons.moreIcon),
                             // old
                             // icon: SvgPicture.asset(
-                            //     'assets/icons/reup_icon_more.svg'),
+                            //     'assets/icons/more_icon.svg'),
                             iconSize: 64,
                             style: ButtonStyle(
                               tapTargetSize: MaterialTapTargetSize.shrinkWrap,
@@ -186,7 +186,7 @@ class MainScreen extends StatelessWidget {
                     onPressed: null,
                     icon: ImageWidget(SvgIcons.moreIcon),
                     // old
-                    // icon: SvgPicture.asset('assets/icons/reup_icon_more.svg'),
+                    // icon: SvgPicture.asset('assets/icons/more_icon.svg'),
                     iconSize: 64,
                     style: ButtonStyle(
                       tapTargetSize: MaterialTapTargetSize.shrinkWrap,

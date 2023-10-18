@@ -17,10 +17,10 @@ class Environment implements Listenable {
   set config(AppConfig c) => _config.value = c;
 
   /// Is this application running in dev mode.
-  bool get isDebug => _currentBuildType == BuildType.dev;
+  bool get isDebug => _currentBuildType == BuildType.debug;
 
   /// Is this application running in prod mode.
-  bool get isRelease => _currentBuildType == BuildType.prod;
+  bool get isRelease => _currentBuildType == BuildType.release;
 
   /// App build type.
   BuildType get buildType => _currentBuildType;

@@ -209,7 +209,7 @@ class PromoPage extends StatelessWidget {
                           icon: const ImageWidget(SvgIcons.moreIcon),
                           // old
                           // icon: SvgPicture.asset(
-                          //     'assets/icons/reup_icon_more.svg'),
+                          //     'assets/icons/more_icon.svg'),
                           iconSize: 64,
                           style: const ButtonStyle(
                             tapTargetSize: MaterialTapTargetSize.shrinkWrap,
